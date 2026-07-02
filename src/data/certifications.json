@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Scrum Foundation",
+    "issuer": "Certiprof",
+    "date": "2025",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Fundamentos de la metodología Scrum, roles, eventos y artefactos para la gestión ágil de proyectos.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "ASP.NET Core Backend C#",
+    "issuer": "Udemy",
+    "date": "2025",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Desarrollo de aplicaciones backend con C# y ASP.NET Core, incluyendo Entity Framework, APIs RESTful y autenticación.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "API RESTful con Node.js / Express",
+    "issuer": "Udemy",
+    "date": "2026",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Diseño e implementación de APIs RESTful utilizando Node.js, Express y MongoDB.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "MySQL",
+    "issuer": "Udemy",
+    "date": "2025",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Bases de datos relacionales con MySQL: diseño de esquemas, consultas SQL, índices y optimización.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "C#",
+    "issuer": "Udemy",
+    "date": "2024",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Programación en C#: fundamentos, POO, colecciones, LINQ y manejo de excepciones.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "Fundamentos Desarrollo con IA",
+    "issuer": "BigSchool",
+    "date": "2026",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Introducción a la inteligencia artificial aplicada al desarrollo de software, incluyendo IA generativa y agentes inteligentes.",
+    "credentialUrl": ""
+  }
+]

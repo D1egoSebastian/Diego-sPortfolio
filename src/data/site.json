@@ -1,0 +1,90 @@
+{
+  "title": "Diego Rodríguez | Software Engineer",
+  "description": "Portfolio de Diego Rodríguez, Software Engineer especializado en Back-End con C#, ASP.NET Core, APIs RESTful e IA aplicada al desarrollo.",
+  "ogSiteName": "Diego Rodríguez",
+  "shortName": "DIEGO",
+  "tagline": "Back-End · APIs · AI · Innovation",
+  "themeStorageKey": "portfolio-theme",
+  "web3formsKey": "YOUR_WEB3FORMS_KEY_HERE",
+  "footerAttribution": {
+    "builder": "Built with Astro Portfolio Theme",
+    "builderUrl": "https://github.com/MarcusHoltz/astro-portfolio-theme",
+    "host": "Hosted on GitHub Pages",
+    "hostUrl": "https://pages.github.com"
+  },
+  "retroTvCount": 21,
+  "seoKeywords": [
+    "Diego Rodríguez",
+    "Software Engineer",
+    "Back-End Developer",
+    "C#",
+    "ASP.NET Core",
+    "API RESTful",
+    "Entity Framework",
+    "MySQL",
+    "PostgreSQL",
+    "Node.js",
+    "Express",
+    "República Dominicana",
+    "Inteligencia Artificial",
+    "IA Generativa",
+    "Azure",
+    "GitHub",
+    "Postman",
+    "Visual Studio",
+    "Portfolio",
+    "Desarrollo Web",
+    "Bases de Datos",
+    "SQL",
+    "NoSQL",
+    "OpenCode",
+    "Agentes Inteligentes"
+  ],
+  "navExternal": [
+    {
+      "label": "GitHub",
+      "desc": "Repositorios y proyectos open-source",
+      "personalKey": "github",
+      "urlTemplate": "https://github.com/{value}"
+    },
+    {
+      "label": "LinkedIn",
+      "desc": "Perfil profesional y recomendaciones",
+      "personalKey": "linkedin",
+      "urlTemplate": "https://linkedin.com/in/{value}"
+    },
+    {
+      "label": "Email",
+      "desc": "Contáctame por correo",
+      "personalKey": "email",
+      "urlTemplate": "mailto:{value}"
+    },
+    {
+      "label": "Phone",
+      "desc": "Disponible para llamadas",
+      "personalKey": "phone",
+      "urlTemplate": "tel:{value}"
+    }
+  ],
+  "serviceSites": [
+    {
+      "badge": "Side Project",
+      "badgeColor": "#6366f1",
+      "cardAccent": "#6366f1",
+      "glowColor": "rgba(99, 102, 241, 0.12)",
+      "iconBg": "rgba(99, 102, 241, 0.1)",
+      "iconBorder": "rgba(99, 102, 241, 0.18)",
+      "iconType": "blog",
+      "name": "Diego's Mind",
+      "url": "https://github.com/D1egoSebastian/DiegosMind",
+      "description": "Blog personal full-stack donde publico sobre videojuegos, películas, libros, filosofía y pensamientos. Construido con Next.js, ASP.NET Core y PostgreSQL.",
+      "features": [
+        "CRUD de posts con autenticación JWT",
+        "Sistema de calificación por estrellas",
+        "Filtrado por categorías",
+        "UI dark mode con animaciones"
+      ],
+      "ctaText": "View on GitHub"
+    }
+  ]
+}

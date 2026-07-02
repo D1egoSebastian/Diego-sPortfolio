@@ -1,0 +1,52 @@
+{
+  "sections": [
+    {
+      "label": "About",
+      "shortLabel": "About",
+      "href": "#about",
+      "desc": "Experiencia y enfoque profesional"
+    },
+    {
+      "label": "Expertise",
+      "shortLabel": "Expertise",
+      "href": "#expertise",
+      "desc": "Áreas de especialización"
+    },
+    {
+      "label": "Skills",
+      "shortLabel": "Skills",
+      "href": "#skills",
+      "desc": "Tecnologías y herramientas"
+    },
+    {
+      "label": "Portfolio",
+      "shortLabel": "Portfolio",
+      "href": "#portfolio",
+      "desc": "Trabajos destacados"
+    },
+    {
+      "label": "Projects",
+      "shortLabel": "Projects",
+      "href": "#projects",
+      "desc": "Proyectos personales"
+    },
+    {
+      "label": "Certifications",
+      "shortLabel": "Certs",
+      "href": "#certifications",
+      "desc": "Cursos y credenciales"
+    },
+    {
+      "label": "Services",
+      "shortLabel": "Services",
+      "href": "#services",
+      "desc": "Sitios y proyectos activos"
+    },
+    {
+      "label": "Contact",
+      "shortLabel": "Contact",
+      "href": "#contact",
+      "desc": "Inicia un proyecto o contáctame"
+    }
+  ]
+}

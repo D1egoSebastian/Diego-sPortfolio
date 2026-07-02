@@ -1,0 +1,24 @@
+{
+  "layout": "showcase",
+  "items": [
+    {
+      "title": "Diego's Mind",
+      "featured": true,
+      "resume": true,
+      "company": "Personal Project",
+      "category": "fullstack",
+      "description": "Aplicación web personal de blog/diario donde publico posts sobre videojuegos, películas, libros, filosofía y pensamientos. Incluye un panel de administración con autenticación para gestionar el contenido (CRUD de posts, categorías y tags) y una vista pública para los lectores con filtros por categoría, calificaciones y animaciones.",
+      "tags": ["Next.js", "ASP.NET Core", "PostgreSQL", "TypeScript", "Docker", "JWT"],
+      "icon": "document-text",
+      "link": "https://github.com/D1egoSebastian/DiegosMind",
+      "colorIcon": "devicon:nextjs",
+      "githubRepo": "DiegosMind",
+      "backgroundImage": "/images/projects/diegosmind.png",
+      "images": [
+        "/images/projects/diegosmind.png"
+      ],
+      "sliderImage": "/images/projects/diegosmind.png",
+      "sliderOrder": 1
+    }
+  ]
+}

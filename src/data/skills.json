@@ -1,0 +1,57 @@
+{
+  "section": {
+    "eyebrow": "Technologies I use",
+    "heading": "Tech Stack"
+  },
+  "categories": [
+    {
+      "title": "Primary",
+      "skills": [
+        { "name": "C#",            "icon": "devicon:csharp" },
+        { "name": "ASP.NET Core",  "icon": "devicon:dotnetcore" },
+        { "name": "Entity Framework", "icon": "devicon:dotnetcore" },
+        { "name": "REST APIs",     "icon": "mdi:api" }
+      ]
+    },
+    {
+      "title": "Databases",
+      "skills": [
+        { "name": "MySQL",         "icon": "devicon:mysql" },
+        { "name": "PostgreSQL",    "icon": "devicon:postgresql" },
+        { "name": "SQL Queries",   "icon": "simple-icons:sqlite" }
+      ]
+    },
+    {
+      "title": "Tools",
+      "skills": [
+        { "name": "Git",           "icon": "devicon:git" },
+        { "name": "GitHub",        "icon": "devicon:github" },
+        { "name": "Azure",         "icon": "devicon:azure" },
+        { "name": "Postman",       "icon": "devicon:postman" },
+        { "name": "Visual Studio", "icon": "devicon:visualstudio" },
+        { "name": "Service Desk",  "icon": "simple-icons:jirasoftware" },
+        { "name": "Office 365",    "icon": "simple-icons:microsoftoffice" }
+      ]
+    },
+    {
+      "title": "Secondary",
+      "skills": [
+        { "name": "Node.js",       "icon": "devicon:nodejs" },
+        { "name": "Express",       "icon": "devicon:express" },
+        { "name": "HTML5",         "icon": "devicon:html5" },
+        { "name": "CSS3",          "icon": "devicon:css3" },
+        { "name": "JavaScript",    "icon": "devicon:javascript" },
+        { "name": "TypeScript",    "icon": "devicon:typescript" }
+      ]
+    },
+    {
+      "title": "AI & Terminal",
+      "skills": [
+        { "name": "OpenCode",      "icon": "simple-icons:gnubash" },
+        { "name": "Generative AI", "icon": "simple-icons:openai" },
+        { "name": "Docker",        "icon": "devicon:docker" },
+        { "name": "Bash",          "icon": "simple-icons:gnubash" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "key": "backend",
+      "icon": "server-stack",
+      "title": "Back-End Development",
+      "description": "Construcción de APIs robustas con C# y ASP.NET Core. Diseño de arquitecturas limpias, manejo de dependencias, middlewares y autenticación con JWT."
+    },
+    {
+      "key": "apis",
+      "icon": "code-bracket-square",
+      "title": "RESTful APIs",
+      "description": "Diseño e implementación de servicios RESTful siguiendo principios HTTP, versionado, documentación con OpenAPI/Swagger y consumo desde cualquier cliente."
+    },
+    {
+      "key": "databases",
+      "icon": "circle-stack",
+      "title": "Databases",
+      "description": "Diseño y administración de bases de datos relacionales con MySQL y PostgreSQL. Modelado de esquemas eficientes y optimización de consultas para aplicaciones robustas y escalables."
+    },
+    {
+      "key": "ai",
+      "icon": "sparkles",
+      "title": "AI for Development",
+      "description": "Aplicación de inteligencia artificial generativa y agentes inteligentes para optimizar flujos de desarrollo, automatizar tareas y acelerar la entrega de software."
+    }
+  ]
+}
