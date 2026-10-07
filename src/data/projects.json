@@ -19,6 +19,18 @@
       ],
       "sliderImage": "/images/projects/diegosmind.png",
       "sliderOrder": 1
+    },
+    {
+      "title": "ControlDeFinanzasIA",
+      "featured": true,
+      "resume": true,
+      "company": "Personal Project",
+      "category": "desktop",
+      "description": "Aplicación de escritorio multiplataforma para el control de finanzas personales asistido por IA. Los datos viven en un único archivo SQLite local, sin telemetría, y las funciones de IA son opcionales con tu propia API key. Cubre gastos e ingresos, presupuestos, metas de ahorro, deudas con cuotas, recurrentes, calendario, dashboard, exportación a PDF/Excel, backup e importación CSV/Excel, con interfaz en español e inglés. Probada en Windows; los builds de macOS y Linux están pendientes de pruebas.",
+      "tags": ["C#", ".NET 8", "Avalonia UI", "SQLite", "Entity Framework Core", "MVVM", "xUnit"],
+      "icon": "banknotes",
+      "link": "https://github.com/D1egoSebastian/ControlFinanzas",
+      "githubRepo": "ControlFinanzas"
     }
   ]
 }

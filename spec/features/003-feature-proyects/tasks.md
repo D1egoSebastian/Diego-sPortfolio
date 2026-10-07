@@ -1,6 +1,7 @@
 # Tasks: Proyectos / Portfolio
 
 - [ ] Crear `src/data/projects.json` con proyecto "Diego's Mind" (layout showcase)
+- [ ] Agregar proyecto "ControlDeFinanzasIA" a `src/data/projects.json` (sin imagen, `resume: true`)
 - [ ] Configurar `src/data/portfolio.json` vacío (array vacío)
 - [ ] Crear `src/data/certifications.json` con las 6 certificaciones
 - [ ] Opcional: agregar imagen slider para Diego's Mind
