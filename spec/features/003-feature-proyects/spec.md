@@ -18,14 +18,15 @@
 | Infraestructura | Docker, Cloudinary, Vercel |
 | Herramientas | BCrypt, Scalar, OpenAPI/Swagger |
 
-## Proyecto 2: ControlDeFinanzasIA
+## Proyecto 2: Control De Finanzas IA
 
 - **URL:** https://github.com/D1egoSebastian/ControlFinanzas
-- **Nombre:** ControlDeFinanzasIA — Control de Finanzas Personales con IA
-- **Descripción:** Aplicación de escritorio multiplataforma (Windows, macOS, Linux) para el control de finanzas personales asistido por IA. Los datos viven en un único archivo SQLite local, sin telemetría; las funciones de IA son opcionales y el usuario aporta su propia API key (BYO). Cubre gastos e ingresos, categorías, presupuestos, metas de ahorro, deudas con cuotas, recurrentes, calendario, dashboard, notificaciones, exportación a PDF/Excel, backup/restore e importación CSV/Excel. Interfaz en español (es-DO) e inglés.
+- **Nombre (en el portfolio):** Control De Finanzas IA (el repositorio y el producto se llaman `ControlDeFinanzasIA`)
+- **Descripción (corta y directa):** Aplicación de escritorio para llevar el control de las finanzas personales (gastos, ingresos, presupuestos, metas de ahorro y deudas) con un asistente de IA opcional. Desarrollada con Spec-Driven Development (SDD): cada funcionalidad se define en una especificación antes de implementarse. No detallar el entorno técnico en la descripción; eso va en los tags.
 - **Estado (honesto):** Windows es la única plataforma ejecutada y probada; los builds de macOS y Linux están generados pero sin probar en hardware real. Todavía no hay release publicado ni binarios firmados. No presentar el proyecto como "publicado" ni "multiplataforma probado".
-- **Imagen:** no hay capturas de pantalla disponibles; la tarjeta usa el modo compacto (icono + tags). Agregar capturas cuando existan.
+- **Imagen / portada:** captura del dashboard en `/images/projects/controlfinanzasia.png`. Se usa como portada en la sección Projects, en el slider "Featured Projects" del Hero (`sliderImage`, `sliderOrder: 2`) y no requiere imagen adicional.
 - **En el CV impreso:** `resume: true`.
+- **En "Projects & Ventures":** segunda tarjeta en `serviceSites` de `src/data/site.json`, con el mismo nombre "Control De Finanzas IA".
 
 ### Tecnologías
 | Capa | Tecnologías |
@@ -45,7 +46,7 @@
 ## Criterios de Aceptación
 
 - [ ] El proyecto Diego's Mind se muestra en la sección Projects con layout showcase
-- [ ] El proyecto ControlDeFinanzasIA se muestra en la sección Projects (modo compacto, sin imagen) y en el CV impreso
+- [ ] El proyecto "Control De Finanzas IA" se muestra en Projects (con portada), en el slider "Featured Projects", en la tarjeta de "Projects & Ventures" y en el CV impreso
 - [ ] El slider del Hero no muestra proyectos (o se oculta si está vacío)
 - [ ] La sección Portfolio no se muestra o aparece vacía sin romper el layout
 - [ ] Las certificaciones aparecen en su sección correspondiente

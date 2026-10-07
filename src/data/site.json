@@ -85,6 +85,25 @@
         "UI dark mode con animaciones"
       ],
       "ctaText": "View on GitHub"
+    },
+    {
+      "badge": "Side Project",
+      "badgeColor": "#10b981",
+      "cardAccent": "#10b981",
+      "glowColor": "rgba(16, 185, 129, 0.12)",
+      "iconBg": "rgba(16, 185, 129, 0.1)",
+      "iconBorder": "rgba(16, 185, 129, 0.18)",
+      "iconType": "desktop",
+      "name": "Control De Finanzas IA",
+      "url": "https://github.com/D1egoSebastian/ControlFinanzas",
+      "description": "Aplicación de escritorio para controlar tus finanzas personales con un asistente de IA opcional. Desarrollada con Spec-Driven Development (SDD).",
+      "features": [
+        "Gastos, ingresos y presupuestos",
+        "Metas de ahorro y deudas con cuotas",
+        "Asistente de IA opcional",
+        "Datos locales, sin telemetría"
+      ],
+      "ctaText": "View on GitHub"
     }
   ]
 }
