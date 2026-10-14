@@ -37,6 +37,24 @@
 | IA | Integración BYO con APIs compatibles con OpenAI / Anthropic / OpenRouter |
 | Calidad | xUnit, NetArchTest |
 
+## Proyecto 3: Bites and More
+
+- **URL:** https://github.com/D1egoSebastian/BitesAndMore
+- **Nombre:** Bites and More
+- **Descripción:** Catálogo web para una repostería casera: muestra productos, precios y servicios. Backend en ASP.NET Core (C#) con un panel de administración protegido por JWT; frontend desarrollado con Spec-Driven Development (SDD).
+- **Tipo:** catálogo, no e-commerce. No se describe el flujo de pedido en el portfolio (dato irrelevante para el CV).
+- **Imagen / portada:** captura de la home en `/images/projects/bitesandmore-home.webp` (portada y slider). Captura de Servicios en `/images/projects/bitesandmore-services.webp` (galería de la tarjeta).
+- **En el CV impreso:** `resume: true`.
+- **En "Projects & Ventures":** tercera entrada de `serviceSites` en `src/data/site.json`. `Services.astro` renderiza todas las entradas; la tercera ocupa la fila completa.
+
+### Tecnologías
+| Capa | Tecnologías |
+|---|---|
+| Backend | ASP.NET Core (C#), Entity Framework Core, Npgsql (PostgreSQL), JWT Bearer, BCrypt, Cloudinary |
+| Frontend | Next.js, React, TypeScript, Tailwind CSS, Framer Motion |
+| Calidad | xUnit, WebApplicationFactory (pruebas de integración), Vitest |
+| Proceso | Spec-Driven Development (13 specs en `docs/specs`), TDD en el backend |
+
 ## Portfolio (Client Work)
 - Actualmente no hay trabajo freelance para mostrar. La sección debe quedar oculta o con array vacío.
 
@@ -47,6 +65,8 @@
 
 - [ ] El proyecto Diego's Mind se muestra en la sección Projects con layout showcase
 - [ ] El proyecto "Control De Finanzas IA" se muestra en Projects (con portada), en el slider "Featured Projects", en la tarjeta de "Projects & Ventures" y en el CV impreso
+- [ ] El proyecto "Bites and More" se muestra en Projects (con portada), en el slider "Featured Projects", en la tarjeta de "Projects & Ventures" y en el CV impreso
+- [ ] "Projects & Ventures" renderiza todas las entradas de `serviceSites`, no solo las dos primeras
 - [ ] El slider del Hero no muestra proyectos (o se oculta si está vacío)
 - [ ] La sección Portfolio no se muestra o aparece vacía sin romper el layout
 - [ ] Las certificaciones aparecen en su sección correspondiente

@@ -104,6 +104,25 @@
         "Datos locales, sin telemetría"
       ],
       "ctaText": "View on GitHub"
+    },
+    {
+      "badge": "Client Work",
+      "badgeColor": "#db2777",
+      "cardAccent": "#db2777",
+      "glowColor": "rgba(219, 39, 119, 0.12)",
+      "iconBg": "rgba(219, 39, 119, 0.1)",
+      "iconBorder": "rgba(219, 39, 119, 0.18)",
+      "iconType": "web",
+      "name": "Bites and More",
+      "url": "https://github.com/D1egoSebastian/BitesAndMore",
+      "description": "Catálogo web para una repostería casera: muestra productos, precios y servicios. Backend en ASP.NET Core (C#) con un panel de administración protegido por JWT; frontend desarrollado con Spec-Driven Development (SDD).",
+      "features": [
+        "Catálogo de productos con categorías y precios",
+        "Galería de fotos por servicio",
+        "Panel de administración protegido con JWT",
+        "Subida de imágenes con Cloudinary"
+      ],
+      "ctaText": "View on GitHub"
     }
   ]
 }

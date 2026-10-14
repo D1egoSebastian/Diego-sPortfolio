@@ -37,6 +37,25 @@
       ],
       "sliderImage": "/images/projects/controlfinanzasia.png",
       "sliderOrder": 2
+    },
+    {
+      "title": "Bites and More",
+      "featured": true,
+      "resume": true,
+      "company": "Client Work",
+      "category": "fullstack",
+      "description": "Catálogo web para una repostería casera: muestra productos, precios y servicios. Backend en ASP.NET Core (C#) con un panel de administración protegido por JWT; frontend desarrollado con Spec-Driven Development (SDD).",
+      "tags": ["ASP.NET Core", "C#", "PostgreSQL", "Entity Framework Core", "JWT", "Next.js", "Tailwind CSS", "Cloudinary", "SDD"],
+      "icon": "sparkles",
+      "link": "https://github.com/D1egoSebastian/BitesAndMore",
+      "githubRepo": "BitesAndMore",
+      "backgroundImage": "/images/projects/bitesandmore-home.webp",
+      "images": [
+        "/images/projects/bitesandmore-home.webp",
+        "/images/projects/bitesandmore-services.webp"
+      ],
+      "sliderImage": "/images/projects/bitesandmore-home.webp",
+      "sliderOrder": 3
     }
   ]
 }
